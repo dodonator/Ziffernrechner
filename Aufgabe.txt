@@ -1,0 +1,11 @@
+Aufabe:
+1. Funktion und Nutzen des Programms erkennen und rudimentär dokumentieren
+2. Eventuelle Syntaxfehler und Laufzeitfehler beheben (Make it Work)
+3. Probleme der Programmierung finden und ausbessern (Make it nice)
+4. Performance überprüfen und verbessern (Make it fast)
+6. Dokumentieren!
+5. Programm mit besseren Quellcode bauen!
+Grundfunktion:
+* Zahlen in einem Interval finden, bei denen jede Ziffer einmal vorkommt.
+* Die Differenz aud den Zahlen bilden
+* Die Häufigkeit der Ereignisse berechnen
